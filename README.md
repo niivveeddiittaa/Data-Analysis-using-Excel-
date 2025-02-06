@@ -78,28 +78,22 @@ This project analyzes coffee sales data from DASH Coffee Orders to extract insig
 
 The dataset consists of multiple sheets:
 
-Orders – Contains transaction details, including customer information, product type, and sales data.
+**Orders** – Contains transaction details, including customer information, product type, and sales data.
 
-Customers – Includes customer demographics, contact details, and loyalty card status.
+**Customers** – Includes customer demographics, contact details, and loyalty card status.
 
-Products – Lists coffee varieties with roast types and sizes.
+**Products** – Lists coffee varieties with roast types and sizes.
 
-Total Sales – Aggregated sales data for different coffee types over time.
+**Total Sales** – Aggregated sales data for different coffee types over time.
 
-Country Bar Chart – Visual representation of sales distribution by country.
+## **Key Insights**
 
-Top 5 Customers – Identifies the most valuable customers.
+**Top-Selling Coffee Types**: Arabica and Excelsa dominate sales, with noticeable trends in certain months.
 
-Dashboard – Summarizes key insights using charts and tables.
+**Customer Distribution**: Majority of customers are from the United States and Ireland.
 
-Key Insights
+**Loyalty Program Effectiveness**: Analysis of loyalty card usage and its impact on customer retention.
 
-Top-Selling Coffee Types: Arabica and Excelsa dominate sales, with noticeable trends in certain months.
-
-Customer Distribution: Majority of customers are from the United States and Ireland.
-
-Loyalty Program Effectiveness: Analysis of loyalty card usage and its impact on customer retention.
-
-Monthly Sales Trends: Seasonal demand fluctuations across different coffee varieties.
+**Monthly Sales Trends**: Seasonal demand fluctuations across different coffee varieties.
 
 
