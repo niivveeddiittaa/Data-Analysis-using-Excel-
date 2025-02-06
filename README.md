@@ -13,7 +13,7 @@ Since **GitHub does't support** `Excel file` internal rendering and visualizatio
 | DASH bike sales.xlsx | [_View this File_](https://1drv.ms/x/s!ArcN1mlTAmmf1H0hwiztLoiJU2ak?e=j64424) |
 | DASH coffee orders.xlsx | [_View this File_](https://sheet.zoho.com/sheet/published.do?rid=f7owk2258fe1d02004af082420527383db8b5) |
 |       |     |
-| Power Query, Power Pivot, Data Modelling.xlsx | [_View this File_](https://1drv.ms/x/s!ArcN1mlTAmmf1Rjuj7A0LOhD3-B2?e=sYEo6u) | 
+| -- | [_View this File_](https://1drv.ms/x/s!ArcN1mlTAmmf1Rjuj7A0LOhD3-B2?e=sYEo6u) | 
 | -- | [_View this File_](https://1drv.ms/x/s!ArcN1mlTAmmf1RMQ-xbxxucuBG0i?e=DDILAO) | 
 | -- | [_View this File_](https://1drv.ms/x/s!ArcN1mlTAmmf1RYvIueX2F_aqE0S?e=gwTV1E) | 
 
