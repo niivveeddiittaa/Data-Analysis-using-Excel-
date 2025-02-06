@@ -22,7 +22,7 @@ ________________________________________________________________________________
 ______________________________________________________________________________________________________________
 
 
-# ** 1) Bike Sales Analytics**
+# **1) Bike Sales Analytics**
 
 Welcome to the **Bike Sales**! This project dives deep into a comprehensive dataset of bike buyers, exploring various factors that influence their purchasing decisions. Whether you're a data enthusiast, a business analyst, or just curious about bike sales trends, this analysis has something for everyone.
 
