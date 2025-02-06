@@ -19,10 +19,10 @@ Since **GitHub does't support** `Excel file` internal rendering and visualizatio
 
 
 ______________________________________________________________________________________________________________
+______________________________________________________________________________________________________________
 
 
-
-# **Bike Sales Data Analysis**
+# ** 1) Bike Sales Data Analysis**
 
 Welcome to the **Bike Sales Data Analysis**! This project dives deep into a comprehensive dataset of bike buyers, exploring various factors that influence their purchasing decisions. Whether you're a data enthusiast, a business analyst, or just curious about bike sales trends, this analysis has something for everyone.
 
@@ -69,7 +69,7 @@ Welcome to the **Bike Sales Data Analysis**! This project dives deep into a comp
 ______________________________________________________________________________________________________________
 
 
-# **Coffee Sales**
+# **2) Coffee Sales**
 
 This project analyzes coffee sales data from DASH Coffee Orders to extract insights into customer preferences, product performance, and revenue trends. The dataset includes detailed information on orders, customers, and products, along with visualizations of total sales and customer distribution.
 
