@@ -28,7 +28,7 @@ Welcome to the **Bike Sales Data Analysis**! This project dives deep into a comp
 
 ## **Dataset Overview:**
 
-The dataset contains detailed information about bike buyers, including:
+### The dataset contains detailed information about bike buyers, including:
 
 **Demographics**: Age, Gender, Marital Status
 
@@ -43,7 +43,7 @@ The dataset contains detailed information about bike buyers, including:
 
 ## **Objective:**
 
-The primary goal of this analysis is to uncover patterns and insights that can help answer key questions such as:
+### The primary goal of this analysis is to uncover patterns and insights that can help answer key questions such as:
 
 **Who is most likely to buy a bike?**
 
@@ -76,7 +76,7 @@ This project analyzes coffee sales data from DASH Coffee Orders to extract insig
 
 ## **Dataset**:
 
-The dataset consists of multiple sheets:
+### The dataset consists of multiple sheets:
 
 **Orders** – Contains transaction details, including customer information, product type, and sales data.
 
