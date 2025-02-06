@@ -19,7 +19,7 @@ Since **GitHub does't support** `Excel file` internal rendering and visualizatio
 
 
 <br>
-__________________________________________________________________________________________________________________________________
+________________________________________________________________________________________________________________
 
 
 # **DASH Bike Sales Data Analysis**
@@ -64,4 +64,12 @@ The primary goal of this analysis is to uncover patterns and insights that can h
 **Regional Trends**: Bike sales are higher in urban regions with shorter commute distances.
 
 **Let's ride into the data and uncover the trends that drive bike sales!** 🚴‍♀️📊
+
+
+
+______________________________________________________________________________________________________________
+
+
+
+
 
