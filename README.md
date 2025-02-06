@@ -20,3 +20,19 @@ Since **GitHub does't support** `Excel file` internal rendering and visualizatio
 
 <br>
 ---
+
+🚴‍♂️** DASH Bike Sales Data Analysis**
+Welcome to the **DASH Bike Sales Data Analysis**! This project dives deep into a comprehensive dataset of bike buyers, exploring various factors that influence their purchasing decisions. Whether you're a data enthusiast, a business analyst, or just curious about bike sales trends, this analysis has something for everyone.
+
+📊 Dataset Overview
+The dataset contains detailed information about bike buyers, including:
+
+**Demographics**: Age, Gender, Marital Status
+
+**Socio-Economic Factors**: Income, Education, Occupation
+
+**Lifestyle**: Number of Cars, Home Ownership, Commute Distance
+
+**Geographical Data**: Region
+
+**Purchase Decision**: Whether the buyer purchased a bike or not
