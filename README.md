@@ -17,12 +17,3 @@ Since **GitHub does't support** `Excel file` internal rendering and visualizatio
 | Data Visualization Charts & Graphs | Advanced Charts Hands on Practice.xlsx | [_View this File_](https://1drv.ms/x/s!ArcN1mlTAmmf1RMQ-xbxxucuBG0i?e=DDILAO) | 
 | Data Visualization Charts & Graphs | Exercise-Solution of all Chart Types.xlsx | [_View this File_](https://1drv.ms/x/s!ArcN1mlTAmmf1RYvIueX2F_aqE0S?e=gwTV1E) | 
 
-
-<br>
-
-> References:  
-> 
-> I have completed these two courses and learned a lot. Definitely check out these courses if you want to leverage your Analysis & Visualization skill using Excel to a next level. 
-> - [Microsoft Excel - Data Analysis with Excel Pivot Tables](https://www.udemy.com/data-analysis-with-excel-pivot-tables/)  
-> - [Microsoft Excel - Data Visualization, Excel Charts & Graphs](https://www.udemy.com/course/advanced-excel-charts-graphs/)  
-> 
