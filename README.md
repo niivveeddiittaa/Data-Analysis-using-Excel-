@@ -31,13 +31,18 @@ Welcome to the **DASH Bike Sales Data Analysis**! This project dives deep into a
 The dataset contains detailed information about bike buyers, including:
 
 **Demographics**: Age, Gender, Marital Status
+
 **Socio-Economic Factors**: Income, Education, Occupation
+
 **Lifestyle**: Number of Cars, Home Ownership, Commute Distance
+
 **Geographical Data**: Region
+
 **Purchase Decision**: Whether the buyer purchased a bike or not
 
 
 ## **Objective**
+
 The primary goal of this analysis is to uncover patterns and insights that can help answer key questions such as:
 
 **Who is most likely to buy a bike?**
@@ -49,6 +54,7 @@ The primary goal of this analysis is to uncover patterns and insights that can h
 **How does income, education, or occupation impact bike sales?**
 
 ## **Key Findings**
+
 **Age Matters**: Middle-aged individuals (31-54 years) are the most likely to purchase bikes.
 
 **Income Influence**: Higher-income individuals are more likely to buy bikes, but there's a sweet spot in the mid-income range.
