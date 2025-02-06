@@ -17,3 +17,6 @@ Since **GitHub does't support** `Excel file` internal rendering and visualizatio
 | Data Visualization Charts & Graphs | Advanced Charts Hands on Practice.xlsx | [_View this File_](https://1drv.ms/x/s!ArcN1mlTAmmf1RMQ-xbxxucuBG0i?e=DDILAO) | 
 | Data Visualization Charts & Graphs | Exercise-Solution of all Chart Types.xlsx | [_View this File_](https://1drv.ms/x/s!ArcN1mlTAmmf1RYvIueX2F_aqE0S?e=gwTV1E) | 
 
+
+<br>
+---
