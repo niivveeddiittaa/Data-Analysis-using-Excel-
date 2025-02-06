@@ -96,4 +96,6 @@ This project analyzes coffee sales data from DASH Coffee Orders to extract insig
 
 **Monthly Sales Trends**: Seasonal demand fluctuations across different coffee varieties.
 
+**This project provides valuable business insights for optimizing coffee sales and understanding customer trends.** 🚀
+
 
