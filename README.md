@@ -22,9 +22,9 @@ ________________________________________________________________________________
 ______________________________________________________________________________________________________________
 
 
-# ** 1) Bike Sales Data Analysis**
+# ** 1) Bike Sales Analytics**
 
-Welcome to the **Bike Sales Data Analysis**! This project dives deep into a comprehensive dataset of bike buyers, exploring various factors that influence their purchasing decisions. Whether you're a data enthusiast, a business analyst, or just curious about bike sales trends, this analysis has something for everyone.
+Welcome to the **Bike Sales**! This project dives deep into a comprehensive dataset of bike buyers, exploring various factors that influence their purchasing decisions. Whether you're a data enthusiast, a business analyst, or just curious about bike sales trends, this analysis has something for everyone.
 
 ## **Dataset Overview:**
 
@@ -52,6 +52,7 @@ Welcome to the **Bike Sales Data Analysis**! This project dives deep into a comp
 > Are there any regional differences in bike purchasing behavior?
 
 > How does income, education, or occupation impact bike sales?
+> 
 ## **Key Findings:**
 
 **Age Matters**: Middle-aged individuals (31-54 years) are the most likely to purchase bikes.
