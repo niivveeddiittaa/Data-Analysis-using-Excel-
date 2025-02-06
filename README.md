@@ -22,9 +22,9 @@ ________________________________________________________________________________
 
 
 
-# **DASH Bike Sales Data Analysis**
+# **Bike Sales Data Analysis**
 
-Welcome to the **DASH Bike Sales Data Analysis**! This project dives deep into a comprehensive dataset of bike buyers, exploring various factors that influence their purchasing decisions. Whether you're a data enthusiast, a business analyst, or just curious about bike sales trends, this analysis has something for everyone.
+Welcome to the **Bike Sales Data Analysis**! This project dives deep into a comprehensive dataset of bike buyers, exploring various factors that influence their purchasing decisions. Whether you're a data enthusiast, a business analyst, or just curious about bike sales trends, this analysis has something for everyone.
 
 ## **Dataset Overview:**
 
@@ -70,6 +70,36 @@ The primary goal of this analysis is to uncover patterns and insights that can h
 ______________________________________________________________________________________________________________
 
 
+# **Coffee Sales**
 
+This project analyzes coffee sales data from DASH Coffee Orders to extract insights into customer preferences, product performance, and revenue trends. The dataset includes detailed information on orders, customers, and products, along with visualizations of total sales and customer distribution.
+
+## **Dataset**:
+
+The dataset consists of multiple sheets:
+
+Orders – Contains transaction details, including customer information, product type, and sales data.
+
+Customers – Includes customer demographics, contact details, and loyalty card status.
+
+Products – Lists coffee varieties with roast types and sizes.
+
+Total Sales – Aggregated sales data for different coffee types over time.
+
+Country Bar Chart – Visual representation of sales distribution by country.
+
+Top 5 Customers – Identifies the most valuable customers.
+
+Dashboard – Summarizes key insights using charts and tables.
+
+Key Insights
+
+Top-Selling Coffee Types: Arabica and Excelsa dominate sales, with noticeable trends in certain months.
+
+Customer Distribution: Majority of customers are from the United States and Ireland.
+
+Loyalty Program Effectiveness: Analysis of loyalty card usage and its impact on customer retention.
+
+Monthly Sales Trends: Seasonal demand fluctuations across different coffee varieties.
 
 
