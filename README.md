@@ -24,7 +24,7 @@ ________________________________________________________________________________
 🚴‍♂️** DASH Bike Sales Data Analysis**
 Welcome to the **DASH Bike Sales Data Analysis**! This project dives deep into a comprehensive dataset of bike buyers, exploring various factors that influence their purchasing decisions. Whether you're a data enthusiast, a business analyst, or just curious about bike sales trends, this analysis has something for everyone.
 
-📊 ##**Dataset Overview**
+📊 ## **Dataset Overview**
 <br>
 The dataset contains detailed information about bike buyers, including:
 
@@ -38,7 +38,7 @@ The dataset contains detailed information about bike buyers, including:
 
 **Purchase Decision**: Whether the buyer purchased a bike or not
 
-🎯 ##**Objective**
+🎯 ## **Objective**
 <br>
 The primary goal of this analysis is to uncover patterns and insights that can help answer key questions such as:
 
