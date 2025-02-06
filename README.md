@@ -19,7 +19,7 @@ Since **GitHub does't support** `Excel file` internal rendering and visualizatio
 
 
 <br>
-****
+________________________________________________________________________________________________________________________________________________________________________________________________
 
 🚴‍♂️** DASH Bike Sales Data Analysis**
 Welcome to the **DASH Bike Sales Data Analysis**! This project dives deep into a comprehensive dataset of bike buyers, exploring various factors that influence their purchasing decisions. Whether you're a data enthusiast, a business analyst, or just curious about bike sales trends, this analysis has something for everyone.
