@@ -45,14 +45,13 @@ Welcome to the **Bike Sales Data Analysis**! This project dives deep into a comp
 
 ### The primary goal of this analysis is to uncover patterns and insights that can help answer key questions such as:
 
-**Who is most likely to buy a bike?**
+> Who is most likely to buy a bike?
 
-**What factors influence the decision to purchase a bike?**
+> What factors influence the decision to purchase a bike?
 
-**Are there any regional differences in bike purchasing behavior?**
+> Are there any regional differences in bike purchasing behavior?
 
-**How does income, education, or occupation impact bike sales?**
-
+> How does income, education, or occupation impact bike sales?
 ## **Key Findings:**
 
 **Age Matters**: Middle-aged individuals (31-54 years) are the most likely to purchase bikes.
