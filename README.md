@@ -10,7 +10,7 @@ Since **GitHub does't support** `Excel file` internal rendering and visualizatio
 
 | File Name | Preview Link |
 | :----:    | :----: |
-| DASH bike sales.xlsx | [_View this File_]([https://1drv.ms/x/s!ArcN1mlTAmmf1H0hwiztLoiJU2ak?e=j64424](https://www.google.com/search?q=websites+to+upload+files+for+free+to+share+via+link&oq=websites+to+upload+files+for+free+to+share+via+link&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigATIHCAIQIRigAdIBCTIzOTQzajBqN6gCALACAA&sourceid=chrome&ie=UTF-8)) |
+| DASH bike sales.xlsx | [_View this File_](https://www.dropbox.com/scl/fi/dnwzfx2cgpcruhxk0v3aw/DASH-bike-sales.xlsx?rlkey=3jyoygs6jk74l4hr8jgurfog1&st=qbddhwwq&dl=0) |
 | DASH coffee orders.xlsx | [_View this File_](https://sheet.zoho.com/sheet/published.do?rid=f7owk2258fe1d02004af082420527383db8b5) |
 |       |     |
 | -- | [_View this File_](https://1drv.ms/x/s!ArcN1mlTAmmf1Rjuj7A0LOhD3-B2?e=sYEo6u) | 
