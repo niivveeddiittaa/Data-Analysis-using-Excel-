@@ -13,9 +13,9 @@ Since **GitHub does't support** `Excel file` internal rendering and visualizatio
 | DASH bike sales.xlsx | [_View this File_](https://www.dropbox.com/scl/fi/dnwzfx2cgpcruhxk0v3aw/DASH-bike-sales.xlsx?rlkey=3jyoygs6jk74l4hr8jgurfog1&st=qbddhwwq&dl=0) |
 | DASH coffee orders.xlsx | [_View this File_](https://www.dropbox.com/scl/fi/zr7ayx1l0r078l0hanahn/DASH-coffee-orders.xlsx?rlkey=hd7od9pab6urv43kn2iyuxny9&st=rclo6j45&dl=0) |
 |       |     |
-| -- | [_View this File_](https://1drv.ms/x/s!ArcN1mlTAmmf1Rjuj7A0LOhD3-B2?e=sYEo6u) | 
-| -- | [_View this File_](https://1drv.ms/x/s!ArcN1mlTAmmf1RMQ-xbxxucuBG0i?e=DDILAO) | 
-| -- | [_View this File_](https://1drv.ms/x/s!ArcN1mlTAmmf1RYvIueX2F_aqE0S?e=gwTV1E) | 
+| Charts and Graphs | [_View this File_](https://1drv.ms/x/s!ArcN1mlTAmmf1Rjuj7A0LOhD3-B2?e=sYEo6u) | 
+| Charts and Graphs | [_View this File_](https://1drv.ms/x/s!ArcN1mlTAmmf1RMQ-xbxxucuBG0i?e=DDILAO) | 
+| Charts and Graphs | [_View this File_](https://1drv.ms/x/s!ArcN1mlTAmmf1RYvIueX2F_aqE0S?e=gwTV1E) | 
 
 
 ______________________________________________________________________________________________________________
