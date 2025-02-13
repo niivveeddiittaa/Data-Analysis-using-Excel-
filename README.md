@@ -18,6 +18,21 @@ Since **GitHub does't support** `Excel file` internal rendering and visualizatio
 
 
 ______________________________________________________________________________________________________________
+
+## 🚀 Features
+
+### **Data Viz**
+- 🧹 **Missing Data Handling**: Impute, drop, or flag incomplete records.
+- 📉 **Outlier Detection**: Identify anomalies with statistical methods.
+- 🔄 **Data Transformation**: Normalize, encode, and reshape datasets.
+- ✅ **Validation Checks**: Ensure consistency and accuracy in raw data.
+
+### **Data Analysis**
+- 📈 **Interactive Visualizations**: Create charts, heatmaps, and dashboards.
+- 📊 **Statistical Summaries**: Generate descriptive stats and correlations.
+- 🔍 **Trend Analysis**: Uncover patterns in time-series and categorical data.
+- 🤖 **Automation Scripts**: Combine Python power with Excel’s user-friendly interface.
+
 ______________________________________________________________________________________________________________
 
 
