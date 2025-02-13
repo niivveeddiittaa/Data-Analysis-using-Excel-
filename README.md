@@ -22,10 +22,9 @@ ________________________________________________________________________________
 ## 🚀 Features
 
 ### **Data Viz**
-- 🧹 **Missing Data Handling**: Impute, drop, or flag incomplete records.
-- 📉 **Outlier Detection**: Identify anomalies with statistical methods.
-- 🔄 **Data Transformation**: Normalize, encode, and reshape datasets.
-- ✅ **Validation Checks**: Ensure consistency and accuracy in raw data.
+- 🧹 **Interactive charts**: (bar, line, scatter, maps) with zoom, tooltips, and real-time updates.
+- 📉 **Customizable themes**: (colors, fonts) and support for CSV/JSON/API data inputs.
+- 🔄 **High-performance rendering**: for large datasets using WebGL/Canvas.
 
 ### **Data Analysis**
 - 📈 **Interactive Visualizations**: Create charts, heatmaps, and dashboards.
